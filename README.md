@@ -2,7 +2,7 @@
 <table>
 <tr>
 <td>
-  A Mobile Applicatin using Flutter to help in communication between deaf and normal persons.
+  A Mobile Application using Flutter to help in communication between deaf and normal persons.
 </td>
 </tr>
 </table>
