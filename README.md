@@ -11,16 +11,16 @@
 ## App Screenshots
 
 ### Start
-<p align="middle">
-  <img src="https://user-images.githubusercontent.com/61423797/136614482-149d1c5b-40e6-4c99-a3d8-1ef43b2ddea7.png" width="600" height="1000" />
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/61423797/136614482-149d1c5b-40e6-4c99-a3d8-1ef43b2ddea7.png" />
 </p>
 
 ### Onboarding screen
-<p align="middle">
-  <img src="https://user-images.githubusercontent.com/61423797/136614618-95c62b65-f0dd-4f0a-a091-518040774071.png" width="100" height="100" />
-  <img src="https://user-images.githubusercontent.com/61423797/136614626-6aeaacc5-349d-47f7-866b-1c7c718b209e.png" width="100" height="100" /> 
-  <img src="https://user-images.githubusercontent.com/61423797/136614646-32fa5e2d-b379-4343-821a-340c41720016.png" width="100" height="100" />
-  <img src="https://user-images.githubusercontent.com/61423797/136614656-3cd0b346-708f-4f78-b22f-2fca63908509.png" width="100" height="100" />
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/61423797/136614618-95c62b65-f0dd-4f0a-a091-518040774071.png" />
+  <img src="https://user-images.githubusercontent.com/61423797/136614626-6aeaacc5-349d-47f7-866b-1c7c718b209e.png" /> 
+  <img src="https://user-images.githubusercontent.com/61423797/136614646-32fa5e2d-b379-4343-821a-340c41720016.png" />
+  <img src="https://user-images.githubusercontent.com/61423797/136614656-3cd0b346-708f-4f78-b22f-2fca63908509.png" />
 </p>
 
 ### Home screen
