@@ -1,14 +1,42 @@
-# Adaptive Speech
-<table>
-<tr>
-<td>
-  A Mobile Application using Flutter to help in communication between deaf and normal persons.
-</td>
-</tr>
-</table>
+# Adaptive Speech 
+A Mobile Application using Flutter to help in communication between especially able (deaf) and others.
+  
+## About  
+Our goal is to make it easier for individuals who are deaf or have hearing loss to communicate with the people around them: relatives, friends, acquaintances, and strangers, through:
+
+- Converting speech to text and producing spoken audio of written text (in chat).
+- Providing Flip cards with Sign Language.
 
 
-## App Screenshots
+## Packages
+
+- **[speech_to_text][1]**: ^2.3.0 - A library that exposes device specific speech recognition capability.
+- **[flutter_tts][2]**: ^3.2.2 - A flutter text to speech plugin
+- **[avatar_glow][3]**: ^1.2.0 - This Flutter package provides a Avatar Glow Widget with cool background glowing animation.
+- **[animated_splash_screen][4]**: ^1.1.0 - Flutter package to make a cool splash screen with animation.
+- **[flip_card][5]**: ^0.5.0 - A component that provides flip card animation. It could be used for hide and show details of a product.
+- **[getwidget][6]**: ^2.0.4 - GetWidget has 1000+ pre-build widgets that you can reuse to develop both Flutter mobile app and web app.
+
+   [1]: https://pub.dev/packages/speech_to_text/versions/2.3.0
+   [2]: https://pub.dev/packages/flutter_tts
+   [3]: https://pub.dev/packages/avatar_glow/versions/1.2.0
+   [4]: https://pub.dev/packages/animated_splash_screen
+   [5]: https://pub.dev/packages/flip_card
+   [6]: https://pub.dev/packages/getwidget
+  
+  
+## Installation
+
+```
+flutter pub get
+```
+## Usage 
+
+```
+flutter run
+```
+
+## Screenshots
 
 ### Start
 <p align="center">
@@ -24,14 +52,15 @@
 </p>
 
 ### Home screen
-Here are the three options that you can Choose the one you want to use.
+Here are the **three options** that you can Choose the one you want to use.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/61423797/136614706-d67d7939-2d1b-4947-8319-09abb405d270.png" width="400"/>
 </p>
 
 ## Voice Chat
-The first option is: as a normal person you can chat with your voice and it will be converted into text, and as a deaf person you can reply with text message.
+**The first option:** deaf can understand what others are saying through converting speech to text message, and also can reply with text message.
+
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/61423797/136614721-42d89404-69aa-46db-8c6c-f45a082e02cc.png" width="400"/>
