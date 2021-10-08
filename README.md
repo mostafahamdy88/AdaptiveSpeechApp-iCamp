@@ -11,7 +11,9 @@
 ## App Screenshots
 
 ### Start
-![1](https://user-images.githubusercontent.com/61423797/136614482-149d1c5b-40e6-4c99-a3d8-1ef43b2ddea7.png)
+<p float="middle">
+  <img src="https://user-images.githubusercontent.com/61423797/136614482-149d1c5b-40e6-4c99-a3d8-1ef43b2ddea7.png" width="400" height="600" />
+</p>
 
 ### Onboarding screen
 <p float="middle">
