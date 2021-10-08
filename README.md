@@ -26,12 +26,10 @@ Our goal is to make it easier for individuals who are deaf or have hearing loss 
   
   
 ## Installation
-
 ```
 flutter pub get
 ```
 ## Usage 
-
 ```
 flutter run
 ```
