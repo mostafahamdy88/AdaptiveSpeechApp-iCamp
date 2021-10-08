@@ -11,12 +11,12 @@
 ## App Screenshots
 
 ### Start
-<p align="center">
+<p align="middle">
   <img src="https://user-images.githubusercontent.com/61423797/136614482-149d1c5b-40e6-4c99-a3d8-1ef43b2ddea7.png" />
 </p>
 
 ### Onboarding screen
-<p align="center">
+<p align="middle">
   <img src="https://user-images.githubusercontent.com/61423797/136614618-95c62b65-f0dd-4f0a-a091-518040774071.png" />
   <img src="https://user-images.githubusercontent.com/61423797/136614626-6aeaacc5-349d-47f7-866b-1c7c718b209e.png" /> 
   <img src="https://user-images.githubusercontent.com/61423797/136614646-32fa5e2d-b379-4343-821a-340c41720016.png" />
